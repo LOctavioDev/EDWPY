@@ -1,6 +1,6 @@
 nombre = 'octavio'
 lista = list(nombre)
-print(lista)    #CONERTIR A UNA LISTA UN STRING
+print(lista)    #CONVERTIR A UNA LISTA UN STRING
 
 #EL INDEXADO FUNCIONA DE IGUAL MANERA
 print(f'{nombre[0]} \n {lista[0]}')

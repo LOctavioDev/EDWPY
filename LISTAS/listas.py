@@ -46,7 +46,7 @@ print(lista_copiada)
 
 #SACA EL ULTIMO ELEMENTO Y LO DEVUELVE
 print(lista.pop())
-#SAACR EL TERCER ELEMENTO DE LA LISTA Y DEVOLVERLO
+#SACAR EL TERCER ELEMENTO DE LA LISTA Y DEVOLVERLO
 print(lista.pop(3))
 print(lista)
 

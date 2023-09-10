@@ -9,5 +9,3 @@ def conteo_digitos(numero):
 
 
 print(conteo_digitos(12345))  
-
-

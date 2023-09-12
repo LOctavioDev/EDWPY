@@ -8,4 +8,4 @@ def conteo_digitos(numero):
         return 1 + conteo_digitos(numero_sin_ultimo_digito)
 
 
-print(conteo_digitos(12345))  
+print(conteo_digitos(12345))

@@ -19,3 +19,4 @@ print(z)
 
 x,y = tupla
 q,w,e,r,t,y = tupla
+
